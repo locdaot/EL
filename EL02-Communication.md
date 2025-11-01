@@ -77,6 +77,80 @@ Dev 2: Overall, I think we made good progress this sprint.</br>
 SM: Agreed. Ok, let's __________ by assigning the action items so that we can effectively address them in the next sprint.</br>
 
 # Session 2: Giving Feedback
+### Opening the discussion/poitning to proplems/Suggesions/ Wrapping feedback
+1. Opening the discussion </br>
+Can we have a quick chat about your last task? </br>
+Would it be alright if we took some time to discuss..your recent experience at work? </br>
+> (2 Conditional) If would, past simple </br>
+
+Can we talk about how things have been going for you lately? </b>
+I have some thoughts on how we can improve your performance... Can I share them with you? </br>
+
+2. Poitning to problems</br>
+There seems to be a challenge with meeting deadlines. </br>
+I have observed/ I have noticed that you struggle with sharing your ideas during meetings </br>
+> struggle with = have problems with sth </br>
+
+I've heard some concerns raised by [colleage/team] regarding [specific issue] </br>
+I wanted to discuss this with you directly to understand your perspective. </br>
+
+3. Suggestions</br>
+You're <mark>on the right track with</mark> the interface design, but consider implementing more user-friendly navigation. </br>
+I believe incorporating regular code reviews in your approach could yield better results. </br> 
+> yield better results = provide better results. </br>
+
+You might want to explore [specific skill] time management techniques to futher improve your performance. </br>
+A minor addjustment you could make is trying to set specific milestones for each task. </br>
+Try refining your work by documenting your coding process. </br> 
+> try + verb + ing = try this approach to achieve better results </br>
+
+4. Wrapping Feedback </br>
+What are your thoghts on this? </br>
+How do you see yourself overcoming the challenges we've discussed? </br>
+What steps can we take together to ensure improvement in these areas? </br>
+5. Giving praise </br>
+Keep up the good work. </br>
+Your dedication did not go unnoticed. </br>
+You did an outstanding job with finding those bugs. </br>
+Thanks for going above and beyond! </br>
+I particularly liked how you implemented these design elements into the project. </br>
+The way you handled the client's hesitaion was impressive </br>
+
+
+Task 1: </br>
+Stacy: Hi, Karen. Would it be alright<mark> if we took some time </mark> to discuss your recent work on the marketing plan? </br>
+Karen: Sure, what's up? </br>
+Stacy: <mark> There seems to be </mark>  a problem with the overall strategy. </br>
+Let me cut to the chase, <mark> I've noticed that </mark>  you've been spending a lot of time on social media strategies but haven't delved into email marketing as much. </br>
+Karen: Yeah, social media is more my forte, so I focused on that area first.</br>
+Stacy: I understand. However, consider the impact on our target audience; some may prefer email communication over social media. Balancing both strategies could yield better result. </br>
+Karen: You're right. I can see there's room for improvement.</br>
+Stacy: How do you see yourself overcoming the challenges we've discussed?</br>
+Karen: I think with some guidance and training, I can improve my skills in email marketing as well.</br>
+Stacy: Great, I'm here to support you. In the meantime, try refining your work by incorporating some email marketing into your overall strategy.</br>
+Task 2: </br>
+Manager: Hi Tim, do you have a moment to chat? </br>
+Tim: Sure. What's up? </br>
+Manager: I just wanted to give you some feedback on your recent project.</br>
+Tim: Okay… was there something wrong with it? Did I miss something?</br>
+Manager: No, not at all. In fact, I particularly liked how you analyzed the data and set up clear visualizations for our team.</br>
+Tim: Oh, thanks. I thought it would be helpful to present the information in a more understandable way. </br>
+Manager: It definitely was. Your attention to detail and extra effort did not go unnoticed, Tim. Thanks for going above and beyond. </br>
+Tim: Thanks, that means a lot coming from you. </br>
+Manager: Have you had any challenges or concerns while working on this project? </br>
+Tim: No, everything went pretty smoothly. Do you have any suggestions for improvement?</br>
+Manager: Not at all. Just keep up the good work! </br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 

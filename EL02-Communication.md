@@ -140,17 +140,91 @@ Tim: Thanks, that means a lot coming from you. </br>
 Manager: Have you had any challenges or concerns while working on this project? </br>
 Tim: No, everything went pretty smoothly. Do you have any suggestions for improvement?</br>
 Manager: Not at all. Just keep up the good work! </br>
+# Session 3: Feedback Receiving 
+What is the main goal of feedback? The main goal of feedback is to help your professional growth. </br>
+How to react to negative feedback? </br>
+1. Thanks for poiting that out. </br> I'd like to give it some thought, though. </br>
+Can I follow up with you in a few days to have a futher discussion? </br>
+2. I hadn't realized that was a problem. I'll address this issue moving forward. </br>
+3. I appreciate your perspective and understand that we might not see eye to eye on this. I'm open to hearing your thoughts and learning more about your point of view. </br>
+4. I'm sorry you feel that way but I appreciate your honestly. Would changing sth help? </br>
+5. I'm grateful you brought it to my attention. I think I must have misunderstood the guidelines earlier. </br>
+6. I understand your concerns, and I'm committed to making things right. I'll appreciate any specific suggessions on how I can improve. </br>
+### Feedback 1:
+Supervisor: Hi Tim, there is something I'd like to discuss with you. I've noticed a consistent decline in your recent projects. The whole team is concerned about it. </br>
+Employee: Oh! I hadn't realized there was a problem. Could you elaborate <mark>( ɪˈlæbəreɪt/ to explain or describe something in a more detailed way)</mark> on it a bit more on what's wrong? </br>
+Supervior: Well, it seems like the quality of your work has been below our usual standards, and deadlines have been missed. This is affecting the overall progress of the team.</br>
+Employee: Oh! thanks pointing that out. I'd like to give it some thoughts though. Can I follow up with you in a few daya to have a further discussion. </br>
+Supervior: Of course. Take the time you need, and we can discuss it in more detail when you're ready. </br>
+### Feedback 2:
+Quality Assurance Manager: Hi Jane, can we have a quick chat? </br>
+Employee: Sure, what's up? </br>
+QAM: I'm afraid the software testing reports you submitted didn't follow our testing guidlines. It caused some problems in identifying and resolving bugs </br>
+Employee: Oh! really? I'm actually grateful you brought this to my attention. I think I must have misunderstood something. Can you specify which parts of the report were problematic? </br>
+QAM: Sure! For instance, the testcases were not mapped to the requirements, and some critical bugs were not documented properly. </br>
+Employee: I see. That clarifies a lot. I'll review the guidlines again and make sure to map the test cases correctly and document all critical bugs throughly.</br>
+QAM: That would be great. Also, if you need any help understanding guidlines, feel free to reach out. </br>
+Employee: Thanks! I appreciate the feedback and will make the neccessary adjustments. </br>
 
+7. Thank you for your kind words. I'm happy we hit the mark (hit the target) for you. </br>
+8. Thank you for noticing! I put a lot of time and effort into that project and it makes me happy to hear I met your expectations. </br>
+9. Your possitve feedback made my day! If there's anything specific you liked, or if you have further suggesions, I'd love to hear them. </br>
+10. I'm glad my contribution was helpful. Also, big thanks to the team for their support! </br>
+11. Thank you so much for your possitive feedback, it means a lot to me (this means a lot coming from you) </br
+                                                                                                                 
+### Feedback 3:
+Daisy: Good morning, Sarah. You mentioned you had some feedback for me on the design I sent over last night. </br>
+Sarah: Hi Daisy, yes. I wanted to let you know that after reviewing with the team, we all loved your design! they are extractly what we were looking for - morden and eye-catching, but still staying true to our brand image</br>
+Daisy: Thank you so much! I put a lot of time and effort into that project and it makes me so happy to hear I met your expectations</br>
+Sarah: Definitely! Most importantly! The clients are also thrilled with the direction we are going in. </br>
+Daisy: Wow! that's great news! It makes me happy to hear that they're satisfied with my work. </br>
+Sarah: Absolutely! We couldn't have done it without you. Thanks for putting in the extra effort. </br>
+### Feedback 4:
+Team lead: Ryan, I just wanted to take a moment to give you some possitive feedback. Your work on the new app has been fantastic. </br>
+Dev: Oh Thank you. That means a lot coming from you.</br>
+Team lead: No, seriously! You've done an amazing job. The app is running smoothly and the interface looks great. </br>
+Dev: Thanks for noticing! If there's anything specific you likes, or if you have further suggessions, I'd love to hear them. </br>
+Team lead: I especially like how you approached the coding for that complex feature. It was very creative and effecient.</br>
+Dev: Thanks, I wasn't sure if it would work at first, but I'm glad it did. </br>
+Team lead: Is there anything specific you liked about developing this app? </br>
+Dev: Honestly, I really enjoyed working with the rest of team, We all collaborated well and had a lot of fun. </br>
+Team lead: Great to hear. Keep up the good work. </br>
 
-
-
-
-
-
-
-
-
-
-
-
-
+# Session 4: Business Email and Chats
+### Greeting
+I hope this email finds you well </br>
+I hope you are doing well </br>
+### Body
+I am writing in connection with... </br>
+I am reaching out regrading ... </br>
+This is to inform you that... </br>
+Just to tell you know .... </br>
+Asking for sth: </br>
+Could you please let me know if/when/who... </br>
+I'd like to know if/when/why... </br>
+Could you please share more details about.. </br>
+Could you give me an update on ... </br>
+I'd appreciate it if you could give me some information about ... </br>
+Following up on a previous email/discussion </b>
+To follow up on our meeting, ... </br>
+As we discussed during our last meeting, .... </br>
+As mentioned below ... </br>
+Regarding... In regards to ... </br>
+On the topic of [] that we started at our last weekly meeting I'd like ti add that ... </br>
+As per our conversation, ... </br>
+Reacting to previous email</br>
+Thank you for getting back to me </br>
+Thanks for your promt reply </br>
+Thanks for the info/update/heads up </br>
+Thanks for taking time to look into this </br>
+Apologizing </br>
+Apologies for a late reply </br>
+Thank you for understanding/ Thank you for your patience.</br>
+### Closing
+Feel free to contact me if you need more information.</br>
+Feel free to schedule a meeting on this topic if you'd like to discuss this further.</br>
+Don't hesiate to reach out to me on Teams </br>
+Have a nice day</br>
+Regards, </br>
+I'll get back to you once I know more </br>
+Please keep me updated/informed </br>
